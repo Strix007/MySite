@@ -1,0 +1,17 @@
+.forum {
+    margin: auto auto auto auto;
+}
+
+.home-button {
+    background-color: #185c74;
+    border: 0;
+    color: #e6e6e6;
+    font-size: 2em;
+    vertical-align: middle;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 500px auto auto auto;
+    font-family: 'Varela Round', sans-serif;
+}
